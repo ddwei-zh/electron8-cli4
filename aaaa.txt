@@ -1,0 +1,3 @@
+yarn run v1.22.4
+$ vue-cli-service electron:build
+终止批处理操作吗(Y/N)? 
